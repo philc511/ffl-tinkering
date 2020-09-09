@@ -1,0 +1,7 @@
+#!/bin/bash
+# using https://github.com/vaastav/Fantasy-Premier-League
+for filename in ~/Fantasy-Premier-League/data/2019-20/players/*/gw.csv; do
+    score=`cat "$filename" | grep '2020-0[67]'  | awk -F , '{sum+=$25} END {print sum}'`
+    name=`echo "$filename" | awk -F "/" '{print $8}'`
+    echo  ${name},${score}
+done

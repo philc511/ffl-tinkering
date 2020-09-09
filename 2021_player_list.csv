@@ -1,0 +1,514 @@
+name,playerid,team,cost,position
+Mesut_Özil,1,1,70,3
+Sokratis_Papastathopoulos,2,1,50,2
+David_Luiz Moreira Marinho,3,1,55,2
+Pierre-Emerick_Aubameyang,4,1,120,3
+Cédric_Soares,5,1,50,2
+Alexandre_Lacazette,6,1,85,4
+Shkodran_Mustafi,7,1,50,2
+Bernd_Leno,8,1,50,1
+Granit_Xhaka,9,1,55,3
+Pablo_Marí,10,1,45,2
+Héctor_Bellerín,11,1,50,2
+Emiliano_Martínez,12,1,45,1
+Calum_Chambers,13,1,45,2
+Sead_Kolasinac,14,1,50,2
+Ainsley_Maitland-Niles,15,1,50,2
+Rob_Holding,16,1,45,2
+Kieran_Tierney,17,1,55,2
+Nicolas_Pépé,18,1,80,3
+Lucas_Torreira,19,1,50,3
+Joseph_Willock,20,1,50,3
+Reiss_Nelson,21,1,55,3
+Edward_Nketiah,22,1,60,4
+Emile_Smith Rowe,23,1,45,3
+Bukayo_Saka,24,1,55,3
+Matteo_Guendouzi,25,1,50,3
+Gabriel Teodoro_Martinelli Silva,26,1,50,3
+William_Saliba,27,1,45,2
+Willian_Borges Da Silva,478,1,80,3
+Gabriel_Magalhães,494,1,50,2
+Daniel_Ceballos Fernández,501,1,50,3
+Tom_Heaton,28,2,45,1
+Ahmed_El Mohamady,29,2,45,2
+Henri_Lansbury,30,2,45,3
+Neil_Taylor,31,2,45,2
+Jed_Steer,32,2,40,1
+Conor_Hourihane,33,2,60,3
+José Ignacio_Peleteiro Romallo,34,2,60,3
+Ørjan_Nyland,35,2,40,1
+Bjorn_Engels,36,2,45,2
+Jack_Grealish,37,2,70,3
+John_McGinn,38,2,55,3
+Kortney_Hause,39,2,45,2
+Mahmoud Ahmed_Ibrahim Hassan,40,2,55,3
+Tyrone_Mings,41,2,50,2
+Matt_Targett,42,2,45,2
+James_Bree,43,2,45,2
+Marvelous_Nakamba,44,2,45,3
+Anwar_El Ghazi,45,2,60,3
+Ezri_Konsa Ngoyo,46,2,45,2
+Frédéric_Guilbert,47,2,45,2
+Wesley_Moraes,48,2,60,4
+Mbwana_Samatta,49,2,60,4
+Keinan_Davis,50,2,45,4
+Indiana_Vassilev,51,2,45,4
+Douglas Luiz_Soares de Paulo,52,2,50,3
+Matthew_Cash,496,2,50,2
+Glenn_Murray,53,3,50,4
+Adam_Lallana,54,3,65,3
+Dale_Stephens,55,3,45,3
+Pascal_Groß,57,3,60,3
+Shane_Duffy,58,3,45,2
+Davy_Pröpper,59,3,50,3
+Aaron_Mooy,60,3,50,3
+Dan_Burn,61,3,45,2
+Lewis_Dunk,62,3,50,2
+Martín_Montoya,63,3,45,2
+Florin_Andone,64,3,50,4
+Solomon_March,65,3,50,3
+Adam_Webster,66,3,45,2
+Joël_Veltman,67,3,45,2
+Neal_Maupay,68,3,65,4
+Leandro_Trossard,69,3,60,3
+Mathew_Ryan,70,3,45,1
+Alireza_Jahanbakhsh,71,3,55,3
+José_Izquierdo,72,3,55,3
+Matthew_Clarke,73,3,45,2
+Ben_White,74,3,45,2
+Bernardo_Fernandes da Silva Junior,75,3,40,2
+Yves_Bissouma,76,3,45,3
+Tariq_Lamptey,77,3,45,2
+Aaron_Connolly,78,3,55,4
+Steven_Alzate,79,3,45,3
+Alexis_Mac Allister,80,3,55,3
+Christian_Walton,503,3,40,1
+James_Tarkowski,81,4,55,2
+Phil_Bardsley,82,4,45,2
+Erik_Pieters,83,4,45,2
+Jack_Cork,84,4,50,3
+Kevin_Long,85,4,45,2
+Jay_Rodriguez,86,4,60,4
+Ashley_Barnes,87,4,60,4
+Ben_Mee,88,4,50,2
+Ashley_Westwood,89,4,55,3
+Johann Berg_Gudmundsson,90,4,55,3
+Chris_Wood,91,4,65,4
+Matthew_Lowton,92,4,45,2
+Matej_Vydra,93,4,50,4
+Ben_Gibson,94,4,40,2
+Robbie_Brady,95,4,50,3
+Nick_Pope,96,4,55,1
+Charlie_Taylor,97,4,45,2
+Josh_Brownhill,98,4,50,3
+Bailey_Peacock-Farrell,99,4,40,1
+Dwight_McNeil,100,4,60,3
+Willy_Caballero,101,5,50,1
+César_Azpilicueta,102,5,60,2
+Olivier_Giroud,103,5,70,4
+Marcos_Alonso,104,5,60,2
+Jorge Luiz_Frello Filho,105,5,50,3
+Ross_Barkley,106,5,60,3
+Mateo_Kovacic,107,5,55,3
+Michy_Batshuayi,108,5,60,4
+Antonio_Rüdiger,109,5,50,2
+Kurt_Zouma,110,5,50,2
+Emerson_Palmieri dos Santos,111,5,50,2
+Kepa_Arrizabalaga,112,5,50,1
+N'Golo_Kanté,113,5,50,3
+Hakim_Ziyech,114,5,80,3
+Ruben_Loftus-Cheek,115,5,60,3
+Andreas_Christensen,116,5,50,2
+Timo_Werner,117,5,95,4
+Tammy_Abraham,118,5,75,4
+Christian_Pulisic,119,5,85,3
+Mason_Mount,120,5,70,3
+Fikayo_Tomori,121,5,50,2
+Callum_Hudson-Odoi,122,5,60,3
+Reece_James,123,5,50,2
+Billy_Gilmour,124,5,45,3
+Benjamin_Chilwell,232,5,55,2
+Thiago_Thiago,490,5,55,2
+Kai_Havertz,500,5,85,3
+Gary_Cahill,125,6,45,2
+Wayne_Hennessey,126,6,45,1
+Mamadou_Sakho,127,6,45,2
+Vicente_Guaita,128,6,50,1
+James_Tomkins,129,6,45,2
+James_McArthur,130,6,55,3
+James_McCarthy,131,6,45,3
+Christian_Benteke,132,6,55,4
+Cheikhou_Kouyaté,133,6,50,3
+Joel_Ward,134,6,45,2
+Martin_Kelly,135,6,45,2
+Connor_Wickham,136,6,45,4
+Andros_Townsend,137,6,60,3
+Luka_Milivojevic,138,6,60,3
+Patrick_van Aanholt,139,6,55,2
+Jordan_Ayew,140,6,60,4
+Wilfried_Zaha,141,6,70,3
+Jeffrey_Schlupp,142,6,55,3
+Max_Meyer,143,6,50,3
+Jairo_Riedewald,144,6,45,3
+Nathan_Ferguson,145,6,40,2
+Tyrick_Mitchell,146,6,40,2
+Brandon_Pierrick,147,6,45,3
+Scott_Dann,486,6,45,2
+Eberechi_Eze,489,6,60,3
+Theo_Walcott,148,7,60,3
+Fabian_Delph,149,7,50,3
+Gylfi_Sigurdsson,150,7,70,3
+Jonas_Lössl,151,7,45,1
+Seamus_Coleman,152,7,50,2
+Cenk_Tosun,153,7,60,4
+Bernard_Anício Caldeira Duarte,154,7,60,3
+Lucas_Digne,155,7,60,2
+Michael_Keane,156,7,50,2
+Jordan_Pickford,157,7,50,1
+André Filipe_Tavares Gomes,158,7,55,3
+Alex_Iwobi,159,7,60,3
+Jonjoe_Kenny,160,7,45,2
+Jean-Philippe_Gbamin,161,7,50,3
+Yerry_Mina,162,7,55,2
+Tom_Davies,163,7,55,3
+Dominic_Calvert-Lewin,164,7,70,4
+Mason_Holgate,165,7,50,2
+Richarlison_de Andrade,166,7,80,4
+João_Virgínia,167,7,45,1
+Anthony_Gordon,168,7,45,3
+Moise_Kean,169,7,60,4
+Jarrad_Branthwaite,170,7,40,2
+Allan_Marques Loureiro,502,7,55,3
+James_Rodríguez,508,7,75,3
+Abdoulaye_Doucouré,512,7,55,3
+Fabricio_Agosto Ramírez,171,8,40,1
+Kevin_McDonald,172,8,50,3
+Maxime_Le Marchand,173,8,45,2
+Stefan_Johansen,174,8,50,3
+Tom_Cairney,175,8,55,3
+Tim_Ream,176,8,45,2
+Anthony_Knockaert,177,8,55,3
+Michael_Hector,178,8,45,2
+Cyrus_Christie,179,8,45,2
+Neeskens_Kebano,180,8,50,3
+Bobby_Decordova-Reid,181,8,55,4
+Joe_Bryan,182,8,50,2
+Marcus_Bettinelli,183,8,45,1
+Aleksandar_Mitrović,184,8,60,4
+Alfie_Mawson,185,8,45,2
+Marek_Rodák,186,8,45,1
+Ivan Ricardo_Neves Abreu Cavaleiro,187,8,55,3
+Josh_Onomah,188,8,50,3
+Jean Michaël_Seri,189,8,50,3
+Aboubakar_Kamara,190,8,50,3
+André-Frank_Zambo Anguissa,191,8,45,3
+Zeze Steven_Sessegnon,192,8,45,2
+Harrison_Reed,373,8,45,3
+Antonee_Robinson,484,8,45,2
+Mario_Lemina,493,8,45,3
+Wes_Morgan,216,9,45,2
+Kasper_Schmeichel,217,9,55,1
+Christian_Fuchs,218,9,45,2
+Jonny_Evans,219,9,55,2
+Adrien_Silva,220,9,45,3
+Marc_Albrighton,221,9,55,3
+Matty_James,222,9,45,3
+Danny_Ward,223,9,45,1
+Jamie_Vardy,224,9,100,4
+Dennis_Praet,225,9,55,3
+Ricardo Domingos_Barbosa Pereira,226,9,60,2
+Daniel_Amartey,227,9,40,2
+Youri_Tielemans,228,9,65,3
+Ayoze_Pérez,229,9,65,3
+Demarai_Gray,230,9,55,3
+James_Maddison,231,9,70,3
+Kelechi_Iheanacho,233,9,60,4
+Hamza_Choudhury,234,9,50,3
+Harvey_Barnes,235,9,70,3
+Wilfred_Ndidi,236,9,50,3
+Filip_Benkovic,237,9,45,2
+Çaglar_Söyüncü,238,9,55,2
+James_Justin,239,9,45,2
+Luke_Thomas,240,9,45,2
+Timothy_Castagne,498,9,55,2
+Pablo_Hernández Domínguez,193,10,60,3
+Francisco_Casilla Cortés,194,10,45,1
+Liam_Cooper,195,10,45,2
+Barry_Douglas,196,10,40,2
+Luke_Ayling,197,10,45,2
+Mateusz_Klich,198,10,55,3
+Adam_Forshaw,199,10,50,3
+Stuart_Dallas,200,10,45,2
+Ezgjan_Alioski,201,10,45,2
+Patrick_Bamford,202,10,55,4
+Jack_Harrison,203,10,55,3
+Kalvin_Phillips,204,10,50,3
+Hélder Wander_Sousa de Azevedo e Costa,205,10,55,3
+Tyler_Roberts,206,10,50,3
+Jay-Roy_Grot,207,10,50,3
+Kamil_Miazek,208,10,40,1
+Ian Carlo_Poveda-Ocampo,209,10,45,3
+Jamie_Shackleton,210,10,50,3
+Pascal_Struijk,211,10,40,2
+Jordan_Stevens,212,10,45,3
+Illan_Meslier,213,10,45,1
+Leif_Davis,214,10,40,2
+Oliver_Casey,215,10,40,2
+Robin_Koch,491,10,45,2
+Rodrigo_Moreno,492,10,60,4
+James_Milner,241,11,55,3
+Konstantinos_Tsimikas,242,11,50,2
+Georginio_Wijnaldum,243,11,55,3
+Jordan_Henderson,244,11,55,3
+Adrián_San Miguel del Castillo,245,11,45,1
+Joel_Matip,246,11,55,2
+Xherdan_Shaqiri,247,11,65,3
+Alex_Oxlade-Chamberlain,248,11,65,3
+Roberto_Firmino,249,11,95,4
+Virgil_van Dijk,250,11,65,2
+Sadio_Mané,251,11,120,3
+Alisson_Ramses Becker,252,11,60,1
+Fabio Henrique_Tavares,253,11,55,3
+Mohamed_Salah,254,11,120,3
+Andrew_Robertson,255,11,70,2
+Divock_Origi,256,11,55,4
+Harry_Wilson,257,11,55,3
+Takumi_Minamino,258,11,65,3
+Trent_Alexander-Arnold,259,11,75,2
+Joseph_Gomez,260,11,55,2
+Naby_Keita,261,11,55,3
+Rhian_Brewster,262,11,45,4
+Curtis_Jones,263,11,45,3
+Neco_Williams,264,11,40,2
+Harvey_Elliott,265,11,45,3
+Fernando_Luiz Rosa,266,12,55,2
+Claudio_Bravo,267,12,45,1
+Sergio_Agüero,268,12,105,4
+Nicolás_Otamendi,269,12,50,2
+Kyle_Walker,270,12,60,2
+Ilkay_Gündogan,271,12,55,3
+Kevin_De Bruyne,272,12,115,3
+John_Stones,273,12,50,2
+Benjamin_Mendy,274,12,60,2
+Riyad_Mahrez,275,12,85,3
+Raheem_Sterling,276,12,115,3
+João Pedro Cavaco_Cancelo,277,12,55,2
+Ederson_Santana de Moraes,278,12,60,1
+Nathan_Aké,279,12,55,2
+Aymeric_Laporte,280,12,60,2
+Bernardo Mota_Veiga de Carvalho e Silva,281,12,75,3
+Gabriel Fernando_de Jesus,282,12,95,4
+Oleksandr_Zinchenko,283,12,55,2
+Phil_Foden,284,12,65,3
+Tommy_Doyle,285,12,45,3
+Rodrigo_Hernandez,286,12,55,3
+Ferran_Torres,287,12,70,3
+Eric_Garcia,288,12,50,2
+Sergio_Romero,289,13,50,1
+Juan_Mata,290,13,60,3
+David_de Gea,291,13,55,1
+Chris_Smalling,292,13,50,2
+Odion_Ighalo,293,13,65,4
+Marcos_Rojo,294,13,50,2
+Nemanja_Matic,295,13,50,3
+Paul_Pogba,296,13,80,3
+Phil_Jones,297,13,50,2
+Harry_Maguire,298,13,55,2
+Frederico_Rodrigues de Paula Santos,299,13,55,3
+Luke_Shaw,300,13,50,2
+Jesse_Lingard,301,13,60,3
+Bruno Miguel_Borges Fernandes,302,13,105,3
+Anthony_Martial,303,13,90,4
+Andreas_Pereira,304,13,50,3
+Dean_Henderson,305,13,55,1
+Marcus_Rashford,306,13,95,3
+Axel_Tuanzebe,307,13,45,2
+Victor_Lindelöf,308,13,50,2
+Scott_McTominay,309,13,50,3
+Eric_Bailly,310,13,50,2
+Daniel_James,311,13,65,3
+Timothy_Fosu-Mensah,312,13,45,2
+Aaron_Wan-Bissaka,313,13,55,2
+José Diogo_Dalot Teixeira,314,13,50,2
+Mason_Greenwood,315,13,75,3
+Tahith_Chong,316,13,45,3
+James_Garner,317,13,45,3
+Brandon_Williams,318,13,45,2
+Teden_Mengi,319,13,40,2
+Donny_van de Beek,495,13,70,3
+Andy_Carroll,320,14,55,4
+Jonjo_Shelvey,321,14,55,3
+Matt_Ritchie,322,14,50,3
+Federico_Fernández,323,14,50,2
+Ciaran_Clark,324,14,45,2
+Karl_Darlow,325,14,50,1
+Martin_Dubravka,326,14,50,1
+Florian_Lejeune,327,14,45,2
+Jamaal_Lascelles,328,14,45,2
+Dwight_Gayle,329,14,60,4
+Christian_Atsu,330,14,55,3
+Paul_Dummett,331,14,45,2
+Javier_Manquillo,332,14,45,2
+Emil_Krafth,333,14,45,2
+Fabian_Schär,334,14,50,2
+DeAndre_Yedlin,335,14,45,2
+Isaac_Hayden,336,14,50,3
+Rolando_Aarons,337,14,50,3
+Allan_Saint-Maximin,338,14,55,3
+Miguel_Almirón,339,14,60,3
+Joelinton Cássio_Apolinário de Lira,340,14,60,4
+Yoshinori_Muto,341,14,50,4
+Kelland_Watts,342,14,40,2
+Sean_Longstaff,480,14,50,3
+Jeff_Hendrick,485,14,50,3
+Matthew_Longstaff,487,14,50,3
+Mark_Gillespie,488,14,45,1
+Jacob_Murphy,497,14,50,3
+Callum_Wilson,506,14,65,4
+Ryan_Fraser,507,14,60,3
+Jamal_Lewis,513,14,45,2
+Billy_Sharp,343,15,60,4
+David_McGoldrick,344,15,55,4
+Chris_Basham,345,15,50,2
+John_Fleck,346,15,60,3
+Enda_Stevens,347,15,55,2
+Simon_Moore,348,15,45,1
+Oliver_Norwood,349,15,50,3
+Wes_Foderingham,350,15,45,1
+George_Baldock,351,15,55,2
+Jack_Robinson,352,15,45,2
+John_Egan,353,15,50,2
+Jack_O'Connell,354,15,50,2
+John_Lundstram,355,15,55,3
+Ben_Osborn,356,15,50,3
+Oliver_McBurnie,357,15,60,4
+Callum_Robinson,358,15,55,4
+Lys_Mousset,359,15,60,4
+Sander_Berge,360,15,50,3
+Luke_Freeman,477,15,50,3
+Aaron_Ramsdale,483,15,50,1
+Ethan_Ampadu,509,15,45,2
+Jayden_Bogle,510,15,45,2
+Max_Lowe,511,15,45,2
+Shane_Long,361,16,55,4
+Ryan_Bertrand,362,16,50,2
+Alex_McCarthy,363,16,45,1
+Oriol_Romeu Vidal,364,16,45,3
+Nathan_Redmond,365,16,65,3
+Danny_Ings,366,16,85,4
+Jack_Stephens,367,16,50,2
+Stuart_Armstrong,368,16,55,3
+Jannik_Vestergaard,369,16,45,2
+James_Ward-Prowse,370,16,60,3
+Angus_Gunn,371,16,45,1
+Sofiane_Boufal,372,16,55,3
+Josh_Sims,374,16,45,3
+Kyle_Walker-Peters,375,16,45,2
+Jan_Bednarek,376,16,45,2
+Che_Adams,377,16,60,4
+Yan_Valery,378,16,50,2
+William_Smallbone,379,16,45,3
+Jake_Vokins,380,16,40,2
+Michael_Obafemi,381,16,50,4
+Moussa_Djenepo,382,16,55,3
+Mohammed_Salisu,479,16,45,2
+Hugo_Lloris,383,17,55,1
+Danny_Rose,384,17,50,2
+Moussa_Sissoko,385,17,50,3
+Toby_Alderweireld,386,17,55,2
+Erik_Lamela,387,17,60,3
+Harry_Kane,388,17,105,4
+Serge_Aurier,389,17,55,2
+Heung-Min_Son,390,17,90,3
+Eric_Dier,391,17,50,2
+Lucas_Rodrigues Moura da Silva,392,17,70,3
+Paulo_Gazzaniga,393,17,45,1
+Bamidele_Alli,394,17,80,3
+Ben_Davies,395,17,50,2
+Pierre-Emile_Højbjerg,396,17,50,3
+Harry_Winks,397,17,55,3
+Davinson_Sánchez,398,17,55,2
+Ryan_Sessegnon,399,17,50,2
+Steven_Bergwijn,400,17,75,3
+Gedson_Carvalho Fernandes,401,17,50,3
+Japhet_Tanganga,402,17,50,2
+Giovani_Lo Celso,403,17,70,3
+Oliver_Skipp,404,17,45,3
+Tanguy_Ndombele,405,17,60,3
+Juan_Foyth,406,17,45,2
+Matt_Doherty,457,17,60,2
+Joe_Hart,482,17,45,1
+David_Button,56,18,40,1
+Kieran_Gibbs,407,18,45,2
+Hal_Robson-Kanu,408,18,55,4
+Jake_Livermore,409,18,50,3
+Kamil_Grosicki,410,18,55,3
+Matt_Phillips,411,18,55,3
+Kyle_Bartley,412,18,45,2
+Romaine_Sawyers,413,18,50,3
+Ahmed El-Sayed_Hegazy,414,18,45,2
+Charlie_Austin,415,18,55,4
+Kenneth_Zohore,416,18,50,4
+Sam_Johnstone,417,18,45,1
+Conor_Townsend,418,18,45,2
+Oluwasemilogo Adesewo Ibidapo_Ajayi,419,18,50,2
+Jonathan_Leko,420,18,45,3
+Kyle_Edwards,421,18,50,3
+Darnell_Furlong,422,18,45,2
+Sam_Field,423,18,50,3
+Oliver_Burke,424,18,45,3
+Dara_O'Shea,425,18,45,2
+Rekeem_Harper,426,18,45,3
+Grady_Diangana,446,18,55,3
+Matheus_Pereira,481,18,60,3
+Cedric_Kipre,499,18,45,2
+Mark_Noble,427,19,50,3
+Robert_Snodgrass,428,19,60,3
+David_Martin,429,19,40,1
+Darren_Randolph,430,19,45,1
+Lukasz_Fabianski,431,19,50,1
+Angelo_Ogbonna,432,19,50,2
+Roberto_Jimenez Gago,433,19,45,1
+Jack_Wilshere,434,19,50,3
+Aaron_Cresswell,435,19,50,2
+Andriy_Yarmolenko,436,19,60,3
+Michail_Antonio,437,19,65,4
+Ryan_Fredericks,438,19,45,2
+Manuel_Lanzini,439,19,65,3
+Felipe Anderson_Pereira Gomes,440,19,65,3
+Sébastien_Haller,441,19,65,4
+Arthur_Masuaku,442,19,45,2
+Fabián_Balbuena,443,19,45,2
+Jordan_Hugill,444,19,55,4
+Jarrod_Bowen,445,19,65,3
+Albian_Ajeti,447,19,55,4
+Declan_Rice,448,19,50,3
+Tomas_Soucek,449,19,50,3
+Pablo_Fornals,450,19,65,3
+Issa_Diop,451,19,45,2
+Ben_Johnson,452,19,40,2
+John_Ruddy,453,20,45,1
+João Filipe Iria_Santos Moutinho,454,20,55,3
+Rui Pedro_dos Santos Patrício,455,20,55,1
+Ryan_Bennett,456,20,45,2
+Willy_Boly,458,20,55,2
+Conor_Coady,459,20,50,2
+Raúl_Jiménez,460,20,85,4
+Romain_Saïss,461,20,50,2
+Jonathan_Castro Otto,462,20,55,2
+Léo_Bonatini,463,20,50,4
+Leander_Dendoncker,464,20,50,3
+Adama_Traoré,465,20,65,3
+Rúben Diogo_da Silva Neves,466,20,55,3
+Oskar_Buur,467,20,40,2
+Diogo_Jota,468,20,65,3
+Daniel_Castelo Podence,469,20,55,3
+Max_Kilman,470,20,40,2
+Rúben Gonçalo_Silva Nascimento Vinagre,471,20,45,2
+Matija_Sarkic,472,20,45,1
+Morgan_Gibbs-White,473,20,50,3
+Pedro_Lomba Neto,474,20,55,3
+Bruno André_Cavaco Jordao,475,20,45,3
+Leonardo_Campana,476,20,50,4
+Fabio_Silva,504,20,55,4
+Fernando_Marçal,505,20,50,2

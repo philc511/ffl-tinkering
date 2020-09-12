@@ -27,7 +27,7 @@ prob += pulp.lpSum([player_chosen[playerid] * players.loc[playerid, 'midfielder'
 prob += pulp.lpSum([player_chosen[playerid] * players.loc[playerid, 'forward'] for playerid in players.index]) == 3
 prob += pulp.lpSum([player_chosen[playerid] * players.loc[playerid, 'cost'] for playerid in players.index]) <= 1000
 
-prob += pulp.lpSum([player_chosen[playerid] * players.loc[playerid, 'not_playing'] for playerid in players.index]) <= 4
+prob += pulp.lpSum([player_chosen[playerid] * players.loc[playerid, 'not_playing'] for playerid in players.index]) <= 0
 
 prob.solve()
 

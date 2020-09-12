@@ -55,6 +55,7 @@ Keinan_Davis,50,2,45,4
 Indiana_Vassilev,51,2,45,4
 Douglas Luiz_Soares de Paulo,52,2,50,3
 Matthew_Cash,496,2,50,2
+Ollie_Watkins,514,2,60,4
 Glenn_Murray,53,3,50,4
 Adam_Lallana,54,3,65,3
 Dale_Stephens,55,3,45,3
@@ -103,6 +104,8 @@ Charlie_Taylor,97,4,45,2
 Josh_Brownhill,98,4,50,3
 Bailey_Peacock-Farrell,99,4,40,1
 Dwight_McNeil,100,4,60,3
+Jimmy_Dunne,519,4,40,2
+Bobby_Thomas,520,4,40,2
 Willy_Caballero,101,5,50,1
 César_Azpilicueta,102,5,60,2
 Olivier_Giroud,103,5,70,4
@@ -110,7 +113,6 @@ Marcos_Alonso,104,5,60,2
 Jorge Luiz_Frello Filho,105,5,50,3
 Ross_Barkley,106,5,60,3
 Mateo_Kovacic,107,5,55,3
-Michy_Batshuayi,108,5,60,4
 Antonio_Rüdiger,109,5,50,2
 Kurt_Zouma,110,5,50,2
 Emerson_Palmieri dos Santos,111,5,50,2
@@ -130,6 +132,7 @@ Billy_Gilmour,124,5,45,3
 Benjamin_Chilwell,232,5,55,2
 Thiago_Thiago,490,5,55,2
 Kai_Havertz,500,5,85,3
+Michy_Batshuayi,108,6,60,4
 Gary_Cahill,125,6,45,2
 Wayne_Hennessey,126,6,45,1
 Mamadou_Sakho,127,6,45,2
@@ -206,6 +209,8 @@ Zeze Steven_Sessegnon,192,8,45,2
 Harrison_Reed,373,8,45,3
 Antonee_Robinson,484,8,45,2
 Mario_Lemina,493,8,45,3
+Alphonse_Areola,516,8,45,1
+Kenny_Tete,517,8,45,2
 Wes_Morgan,216,9,45,2
 Kasper_Schmeichel,217,9,55,1
 Christian_Fuchs,218,9,45,2
@@ -231,6 +236,7 @@ Filip_Benkovic,237,9,45,2
 James_Justin,239,9,45,2
 Luke_Thomas,240,9,45,2
 Timothy_Castagne,498,9,55,2
+Nampalys_Mendy,518,9,45,3
 Pablo_Hernández Domínguez,193,10,60,3
 Francisco_Casilla Cortés,194,10,45,1
 Liam_Cooper,195,10,45,2
@@ -345,7 +351,6 @@ Karl_Darlow,325,14,50,1
 Martin_Dubravka,326,14,50,1
 Florian_Lejeune,327,14,45,2
 Jamaal_Lascelles,328,14,45,2
-Dwight_Gayle,329,14,60,4
 Christian_Atsu,330,14,55,3
 Paul_Dummett,331,14,45,2
 Javier_Manquillo,332,14,45,2
@@ -382,9 +387,9 @@ Jack_O'Connell,354,15,50,2
 John_Lundstram,355,15,55,3
 Ben_Osborn,356,15,50,3
 Oliver_McBurnie,357,15,60,4
-Callum_Robinson,358,15,55,4
 Lys_Mousset,359,15,60,4
 Sander_Berge,360,15,50,3
+Oliver_Burke,424,15,45,3
 Luke_Freeman,477,15,50,3
 Aaron_Ramsdale,483,15,50,1
 Ethan_Ampadu,509,15,45,2
@@ -397,7 +402,6 @@ Oriol_Romeu Vidal,364,16,45,3
 Nathan_Redmond,365,16,65,3
 Danny_Ings,366,16,85,4
 Jack_Stephens,367,16,50,2
-Stuart_Armstrong,368,16,55,3
 Jannik_Vestergaard,369,16,45,2
 James_Ward-Prowse,370,16,60,3
 Angus_Gunn,371,16,45,1
@@ -438,7 +442,9 @@ Tanguy_Ndombele,405,17,60,3
 Juan_Foyth,406,17,45,2
 Matt_Doherty,457,17,60,2
 Joe_Hart,482,17,45,1
+Cameron_Carter-Vickers,521,17,40,2
 David_Button,56,18,40,1
+Callum_Robinson,358,18,55,4
 Kieran_Gibbs,407,18,45,2
 Hal_Robson-Kanu,408,18,55,4
 Jake_Livermore,409,18,50,3
@@ -456,7 +462,6 @@ Jonathan_Leko,420,18,45,3
 Kyle_Edwards,421,18,50,3
 Darnell_Furlong,422,18,45,2
 Sam_Field,423,18,50,3
-Oliver_Burke,424,18,45,3
 Dara_O'Shea,425,18,45,2
 Rekeem_Harper,426,18,45,3
 Grady_Diangana,446,18,55,3
@@ -495,7 +500,6 @@ Willy_Boly,458,20,55,2
 Conor_Coady,459,20,50,2
 Raúl_Jiménez,460,20,85,4
 Romain_Saïss,461,20,50,2
-Jonathan_Castro Otto,462,20,55,2
 Léo_Bonatini,463,20,50,4
 Leander_Dendoncker,464,20,50,3
 Adama_Traoré,465,20,65,3
@@ -512,3 +516,4 @@ Bruno André_Cavaco Jordao,475,20,45,3
 Leonardo_Campana,476,20,50,4
 Fabio_Silva,504,20,55,4
 Fernando_Marçal,505,20,50,2
+Vitor_Ferreira,515,20,50,3

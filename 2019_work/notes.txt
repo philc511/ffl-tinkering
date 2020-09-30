@@ -1,0 +1,27 @@
+https://fantasy.premierleague.com/drf/fixtures/
+if finished
+fixture
+id
+home team
+away team
+home score
+away score
+kick off time
+
+
+
+https://fantasy.premierleague.com/drf/element-summary/nnn
+if minutes > 0
+player-fixture
+player id (element)
+fixture id (fixture)
+total points
+minutes
+
+
+Features:
+last 10 matches (or use avg score if less than 10)
+home/away (category)
+time (category)
+position (category)
+opposition differential
